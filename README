@@ -1,0 +1,1 @@
+Compile-time logger with 5 levels. The logger is in the header `log.h`. See `log.c` for example usage.
